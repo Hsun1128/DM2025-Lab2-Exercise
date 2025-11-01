@@ -4,4 +4,4 @@ config/.env
 .venv/
 *.bin
 *.gz
-
+*.zip
