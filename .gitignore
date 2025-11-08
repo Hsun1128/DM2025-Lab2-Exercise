@@ -5,3 +5,5 @@ config/.env
 *.bin
 *.gz
 *.zip
+hf_emotion_outputs/
+hf_emotion_outputs_llrd_focal/
